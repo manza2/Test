@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23750" started-at="2017-03-15T12:02:13Z" finished-at="2017-03-15T12:02:36Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23750" started-at="2017-03-15T12:02:13Z" finished-at="2017-03-15T12:02:36Z">
+      <class name="com.newtour.Testcases.Tests">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.newtour.Testcases.Tests@59f99ea]" name="setup" is-config="true" duration-ms="8548" started-at="2017-03-15T14:02:13Z" finished-at="2017-03-15T14:02:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="test_Home_Page_Title()[pri:0, instance:com.newtour.Testcases.Tests@59f99ea]" name="test_Home_Page_Title" duration-ms="17" started-at="2017-03-15T14:02:21Z" finished-at="2017-03-15T14:02:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Home_Page_Title -->
+        <test-method status="PASS" signature="test_registration()[pri:1, instance:com.newtour.Testcases.Tests@59f99ea]" name="test_registration" duration-ms="2107" started-at="2017-03-15T14:02:21Z" finished-at="2017-03-15T14:02:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_registration -->
+        <test-method status="PASS" signature="test_return_to_HomePage()[pri:2, instance:com.newtour.Testcases.Tests@59f99ea]" name="test_return_to_HomePage" duration-ms="3043" started-at="2017-03-15T14:02:23Z" finished-at="2017-03-15T14:02:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_return_to_HomePage -->
+        <test-method status="PASS" signature="test_expect_Home_Page()[pri:3, instance:com.newtour.Testcases.Tests@59f99ea]" name="test_expect_Home_Page" duration-ms="5190" started-at="2017-03-15T14:02:26Z" finished-at="2017-03-15T14:02:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_expect_Home_Page -->
+        <test-method status="PASS" signature="test_Sign_off()[pri:4, instance:com.newtour.Testcases.Tests@59f99ea]" name="test_Sign_off" duration-ms="3065" started-at="2017-03-15T14:02:32Z" finished-at="2017-03-15T14:02:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test_Sign_off -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.newtour.Testcases.Tests@59f99ea]" name="closeBrowser" is-config="true" duration-ms="1746" started-at="2017-03-15T14:02:35Z" finished-at="2017-03-15T14:02:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.newtour.Testcases.Tests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
